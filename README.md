@@ -179,25 +179,25 @@ These equations are established scientific formulas used for explanatory synthes
 
 ### Figure 1 — Layered Conceptual Structure of Computer Science
 
-![Layered Conceptual Structure of Computer Science](figures/Figure_1_Layered_Computer_Science_Clear.png)
+![Layered Conceptual Structure of Computer Science](https://github.com/Samuelson777/Computer-Science-as-a-Layered-Discipline/blob/main/Fig%201.png)
 
 This figure shows the six-layer conceptual organization of computer science and the cross-cutting roles of trust, security, privacy, reliability, efficiency, energy, scalability, and performance.
 
 ### Figure 2 — Computer Science Research-to-Deployment Lifecycle
 
-![Computer Science Research-to-Deployment Lifecycle](figures/Figure_2_Research_to_Deployment_Lifecycle_Clear.png)
+![Computer Science Research-to-Deployment Lifecycle](https://github.com/Samuelson777/Computer-Science-as-a-Layered-Discipline/blob/main/Fig%202.png)
 
 This figure presents an iterative process connecting problem definition, formalization, design, implementation, evaluation, deployment, monitoring, and revision.
 
 ### Figure 3 — Converging Research Frontiers in Computer Science
 
-![Converging Research Frontiers in Computer Science](figures/Figure_3_Converging_Research_Frontiers_Clear.png)
+![Converging Research Frontiers in Computer Science](https://github.com/Samuelson777/Computer-Science-as-a-Layered-Discipline/blob/main/Fig%203.png)
 
 This figure illustrates the convergence of trustworthy AI, formal verification, quantum-safe security, cyber-physical systems, sustainable computing, and human-centered interaction around dependable sociotechnical computing.
 
 ---
 
-## Recommended Repository Structure
+## Repository Structure
 
 ```text
 computer-science-layered-discipline/
@@ -224,7 +224,9 @@ computer-science-layered-discipline/
 
 The complete manuscript should be placed in the `paper` directory:
 
-When a DOI or repository record becomes available, add it here:
+* [View the PDF](https://github.com/Samuelson777/Computer-Science-as-a-Layered-Discipline/blob/main/Computer_Science_Research_Paper_SAMUELSON_G.pdf)
+
+DOI and repository record:
 
 ```text
 DOI: https://doi.org/10.13140/RG.2.2.21918.91203
