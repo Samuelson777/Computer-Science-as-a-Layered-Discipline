@@ -280,8 +280,6 @@ This repository contains an independent research manuscript.
 
 The paper is uploaded to a scholarly repository such as Zenodo as a preprint. Repository publication and DOI assignment make the work publicly accessible and citable, but do not constitute peer review.
 
-Use the following statement until formal peer review is completed:
-
 > This manuscript is a preprint and has not yet undergone formal peer review.
 
 ---
@@ -310,8 +308,6 @@ Preprint.
   url     = {Repository URL to be added}
 }
 ```
-
-Replace the DOI and URL placeholders after publishing the manuscript in a recognized repository.
 
 ---
 
